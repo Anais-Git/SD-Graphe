@@ -1,0 +1,15 @@
+c Pb de flot max
+c pb lines (nodes, links)
+p 5 7
+c source
+n 1 s
+c sink
+n 5 t
+c arc (from, to, capa) 
+a 1 2 20
+a 1 4 20
+a 2 3 10
+a 2 4 10
+a 3 5 30
+a 4 3 10
+a 4 5 20
